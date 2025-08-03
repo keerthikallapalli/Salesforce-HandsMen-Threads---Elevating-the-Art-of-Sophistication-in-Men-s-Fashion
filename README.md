@@ -20,3 +20,6 @@ Flows (Record-Triggered, Scheduled, Email Alert)
 Validation Rules
 Custom Objects and Relationships
 
+Link for project demo video:
+https://docs.google.com/videos/d/1SVn9QB0O_agLton9Mqt6ujrnHLbSPKwi8nJTbGtrptY/edit?usp=sharing
+
